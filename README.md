@@ -1,4 +1,16 @@
-Using vertual environment is good practive.
+It always ideal to create virtual environment to test any application.
+Below is sample command create a virtual environment
+
+D:> python3 -m venv <location of the virtual environment>  #example path D:\test\app
+
+Once above step is done activate virtual environment using below command
+
+D:\test\app > Script\activate
+
+Your will looks like below
+
+(<virtual env name>) D:\test\app> pip3 install -r requirements
+
 below are the libraries required to run the app
 
 Flask==2.2.5
@@ -8,7 +20,6 @@ Flask-RESTful==0.3.9
 PyJWT==1.7.1
 SQLAlchemy==2.0.23
 Werkzeug==2.2.3
-
 
 you can install by using below command in virtual environment:
 pip3 install -r requirements
