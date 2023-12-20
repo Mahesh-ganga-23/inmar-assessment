@@ -3,10 +3,15 @@ below are the libraries required to run the app
 
 Flask==2.2.5
 Flask-JWT-Extended==3.18.2
+flask-sqlalchemy==3.0.5
 Flask-RESTful==0.3.9
 PyJWT==1.7.1
 SQLAlchemy==2.0.23
 Werkzeug==2.2.3
+
+
+you can install by using below command in virtual environment:
+pip3 install -r requirements
 
 Source file is api.py file
 Go to api.py file location on the terminal/command prompt
