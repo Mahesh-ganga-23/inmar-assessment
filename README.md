@@ -7,7 +7,7 @@ Once above step is done activate virtual environment using below command
 
 D:\test\app > Script\activate
 
-Your will looks like below
+Your path will looks like below
 
 (<virtual env name>) D:\test\app> pip3 install -r requirements
 
