@@ -13,6 +13,9 @@ Your path will looks like below
 
 below are the libraries required to run the app
 
+install sqlite using following steps, given in below link.
+https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
+
 Flask==2.2.5
 Flask-JWT-Extended==3.18.2
 flask-sqlalchemy==3.0.5
